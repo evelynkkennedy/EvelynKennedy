@@ -1,3 +1,5 @@
+""" Here is an MLP with 2 hidden layers that creates a regression model. I created this project for the class EE 456: Intro to Neural Networks"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
